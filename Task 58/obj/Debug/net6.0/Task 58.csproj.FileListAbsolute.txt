@@ -1,0 +1,15 @@
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\bin\Debug\net6.0\Task 58.exe
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\bin\Debug\net6.0\Task 58.deps.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\bin\Debug\net6.0\Task 58.runtimeconfig.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\bin\Debug\net6.0\Task 58.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\bin\Debug\net6.0\Task 58.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.csproj.AssemblyReference.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.AssemblyInfoInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.AssemblyInfo.cs
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.csproj.CoreCompileInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\refint\Task 58.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\Task 58.genruntimeconfig.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem8\Task 58\obj\Debug\net6.0\ref\Task 58.dll
